@@ -83,4 +83,4 @@ MIT License
 
 ## 👨‍💻 Developer
 
-Developed by [Your Name]
+Developed by Asry
